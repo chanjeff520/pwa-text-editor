@@ -1,8 +1,10 @@
 # pwa-text-editor
 
-## Link to Deployed website
+## Link to Deployed Website
 
-[Click Here!](https://drive.google.com/file/d/1j0ZkmlX3HeURuBXR1YpcFJCDX-yVGbgR/view)
+(https://drive.google.com/file/d/1j0ZkmlX3HeURuBXR1YpcFJCDX-yVGbgR/view)<br><br>
+
+![Walkthrough of the website](./img/PWA.gif)
 
 ## Technology
 
