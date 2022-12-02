@@ -2,7 +2,10 @@
 
 ## Link to Deployed Website
 
-(https://drive.google.com/file/d/1j0ZkmlX3HeURuBXR1YpcFJCDX-yVGbgR/view)<br><br>
+(https://drive.google.com/file/d/1j0ZkmlX3HeURuBXR1YpcFJCDX-yVGbgR/view)
+
+## Link to Github Repository
+(https://github.com/chanjeff520/pwa-text-editor)<br><br>
 
 ![Walkthrough of the website](./img/PWA.gif)
 
